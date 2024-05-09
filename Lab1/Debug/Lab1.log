@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Audio.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\Audio.cpp(490,20): warning C4018: '<': signed/unsigned mismatch
+  BouncyBall.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\camera.h(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\BouncyBall.cpp(186,20): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Display.cpp
+  Main.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\camera.h(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MainGame.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\camera.h(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\MainGame.cpp(456,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\Mesh.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+  obj_loader.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\camera.h(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Lab1\camera.h(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> C:\Users\joshu\Desktop\GP2 Main Project\GP2-Project\GP2-Project\Debug\Labs.exe
